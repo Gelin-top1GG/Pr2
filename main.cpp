@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    setlocale(LC_ALL, "Russian");
+    setlocale(0,"");
 
     cout << "--- КАЛЬКУЛЯТОР ПРИЗЫВА СКЕЛЕТОВ ---\n\n";
 
